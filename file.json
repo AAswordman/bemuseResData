@@ -1,0 +1,505 @@
+{
+    "": {
+        "dirs": [
+            ".git",
+            "[fun_fighter]lossing_heart"
+        ],
+        "files": [
+            "file.json",
+            "list.py"
+        ]
+    },
+    ".git": {
+        "dirs": [
+            ".git\\hooks",
+            ".git\\info",
+            ".git\\logs",
+            ".git\\objects",
+            ".git\\refs"
+        ],
+        "files": [
+            ".git\\COMMIT_EDITMSG",
+            ".git\\config",
+            ".git\\description",
+            ".git\\HEAD",
+            ".git\\index"
+        ]
+    },
+    ".git\\hooks": {
+        "dirs": [],
+        "files": [
+            ".git\\hooks\\applypatch-msg.sample",
+            ".git\\hooks\\commit-msg.sample",
+            ".git\\hooks\\fsmonitor-watchman.sample",
+            ".git\\hooks\\post-update.sample",
+            ".git\\hooks\\pre-applypatch.sample",
+            ".git\\hooks\\pre-commit.sample",
+            ".git\\hooks\\pre-merge-commit.sample",
+            ".git\\hooks\\pre-push.sample",
+            ".git\\hooks\\pre-rebase.sample",
+            ".git\\hooks\\pre-receive.sample",
+            ".git\\hooks\\prepare-commit-msg.sample",
+            ".git\\hooks\\push-to-checkout.sample",
+            ".git\\hooks\\sendemail-validate.sample",
+            ".git\\hooks\\update.sample"
+        ]
+    },
+    ".git\\info": {
+        "dirs": [],
+        "files": [
+            ".git\\info\\exclude"
+        ]
+    },
+    ".git\\logs": {
+        "dirs": [
+            ".git\\logs\\refs"
+        ],
+        "files": [
+            ".git\\logs\\HEAD"
+        ]
+    },
+    ".git\\logs\\refs": {
+        "dirs": [
+            ".git\\logs\\refs\\heads",
+            ".git\\logs\\refs\\remotes"
+        ],
+        "files": []
+    },
+    ".git\\logs\\refs\\heads": {
+        "dirs": [],
+        "files": [
+            ".git\\logs\\refs\\heads\\main"
+        ]
+    },
+    ".git\\logs\\refs\\remotes": {
+        "dirs": [
+            ".git\\logs\\refs\\remotes\\origin"
+        ],
+        "files": []
+    },
+    ".git\\logs\\refs\\remotes\\origin": {
+        "dirs": [],
+        "files": [
+            ".git\\logs\\refs\\remotes\\origin\\main"
+        ]
+    },
+    ".git\\objects": {
+        "dirs": [
+            ".git\\objects\\00",
+            ".git\\objects\\01",
+            ".git\\objects\\0a",
+            ".git\\objects\\0e",
+            ".git\\objects\\16",
+            ".git\\objects\\1a",
+            ".git\\objects\\1c",
+            ".git\\objects\\21",
+            ".git\\objects\\2a",
+            ".git\\objects\\2c",
+            ".git\\objects\\33",
+            ".git\\objects\\3c",
+            ".git\\objects\\3f",
+            ".git\\objects\\41",
+            ".git\\objects\\44",
+            ".git\\objects\\4b",
+            ".git\\objects\\4d",
+            ".git\\objects\\4f",
+            ".git\\objects\\53",
+            ".git\\objects\\54",
+            ".git\\objects\\5b",
+            ".git\\objects\\5c",
+            ".git\\objects\\61",
+            ".git\\objects\\66",
+            ".git\\objects\\6c",
+            ".git\\objects\\72",
+            ".git\\objects\\73",
+            ".git\\objects\\8c",
+            ".git\\objects\\a5",
+            ".git\\objects\\af",
+            ".git\\objects\\bb",
+            ".git\\objects\\bf",
+            ".git\\objects\\c5",
+            ".git\\objects\\c8",
+            ".git\\objects\\c9",
+            ".git\\objects\\d3",
+            ".git\\objects\\d8",
+            ".git\\objects\\e1",
+            ".git\\objects\\e3",
+            ".git\\objects\\e6",
+            ".git\\objects\\e9",
+            ".git\\objects\\ec",
+            ".git\\objects\\f0",
+            ".git\\objects\\f8",
+            ".git\\objects\\info",
+            ".git\\objects\\pack"
+        ],
+        "files": []
+    },
+    ".git\\objects\\00": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\00\\e92e6fd2ef194d3680e0e2d96d72c31c77f50c"
+        ]
+    },
+    ".git\\objects\\01": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\01\\1c1c1e1bc94e0acfe9c614e76641a999460a57",
+            ".git\\objects\\01\\1ead0c75107eaa8e44c8d650df71228e51888a"
+        ]
+    },
+    ".git\\objects\\0a": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\0a\\1ec74b05bb4bc3ffbe27b434e800a84e4c6008"
+        ]
+    },
+    ".git\\objects\\0e": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\0e\\48d8da7c378e8a5ae01dacdac35e93b232ec29"
+        ]
+    },
+    ".git\\objects\\16": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\16\\27b9da619febf0ce0e61522cabef70e721b35b"
+        ]
+    },
+    ".git\\objects\\1a": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\1a\\69b3640ead554a36a64fb9a24377f67b713e4d"
+        ]
+    },
+    ".git\\objects\\1c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\1c\\b3b64ead9ffa51059ae87ab550dc952b5039aa"
+        ]
+    },
+    ".git\\objects\\21": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\21\\a1b2d608ec45859b4b8f996d257dd06e20dd2b"
+        ]
+    },
+    ".git\\objects\\2a": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\2a\\f3f6b6c1eeb680d564e4bbaae41d1503682946"
+        ]
+    },
+    ".git\\objects\\2c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\2c\\f4977df86ac80d0e81e75b60f7a7487d96dd9e"
+        ]
+    },
+    ".git\\objects\\33": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\33\\5b14d6f569ebf9136b9e667ccbeb2c2806bfe6"
+        ]
+    },
+    ".git\\objects\\3c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\3c\\2d008dddfe0c18337ba1d261e5c3b1360744da"
+        ]
+    },
+    ".git\\objects\\3f": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\3f\\c07dc01e3139cecbe0796f6eaabb690e3c6420"
+        ]
+    },
+    ".git\\objects\\41": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\41\\35f4ab672fea4aec45e5ce168cd33901a88d47"
+        ]
+    },
+    ".git\\objects\\44": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\44\\1b5f13d76d156e3f83bf9b225a144ebb6d0a82"
+        ]
+    },
+    ".git\\objects\\4b": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\4b\\3f2034366e1cd0cdce63903647fb4f61d66f38"
+        ]
+    },
+    ".git\\objects\\4d": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\4d\\6afe594df4f4917268bc530cfe9d5e304b441a"
+        ]
+    },
+    ".git\\objects\\4f": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\4f\\cc57f9295b5d1caef2f674d2268d4fd21d4dfb"
+        ]
+    },
+    ".git\\objects\\53": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\53\\e3bb0e57cbda7b79bcab1e3afc257f75dfad4d"
+        ]
+    },
+    ".git\\objects\\54": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\54\\eb99d3fe85dbdec7535d0cb1858ed42914a08d"
+        ]
+    },
+    ".git\\objects\\5b": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\5b\\0862b30b8dd7b65d1db2e6be2df46d2a2e71a4"
+        ]
+    },
+    ".git\\objects\\5c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\5c\\1f3bff54cd81ff107d3b71d8177e0b6041d724"
+        ]
+    },
+    ".git\\objects\\61": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\61\\9adaec303e5160c5f59a9426e6b6098301adee"
+        ]
+    },
+    ".git\\objects\\66": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\66\\4f651314f9addc414c5abe687c79cca82f1d1b"
+        ]
+    },
+    ".git\\objects\\6c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\6c\\fda62e30a2a7422cb6b6f10f73af54f4b92b46"
+        ]
+    },
+    ".git\\objects\\72": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\72\\00e9c15e4e735bf57f5c796f9e5023b38130d3"
+        ]
+    },
+    ".git\\objects\\73": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\73\\bb087db6c4ff6ac2046e2dd37574971debcabe"
+        ]
+    },
+    ".git\\objects\\8c": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\8c\\125935a7c6461c41b65e0794b4ae9afda21636",
+            ".git\\objects\\8c\\b297ca71fb964055d580208350260f08c94ec2"
+        ]
+    },
+    ".git\\objects\\a5": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\a5\\1fc9b0632e5e7efe5b49743f9cb3ea8a4cd6fa"
+        ]
+    },
+    ".git\\objects\\af": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\af\\9bc763a71ece03590bebaf99f83e757acb0b85"
+        ]
+    },
+    ".git\\objects\\bb": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\bb\\c3236305cd82d9991c9bdedf06e20d4a3e9020"
+        ]
+    },
+    ".git\\objects\\bf": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\bf\\4c45ad0e98d8337ec3a2a6fc1c2db66971cf0f"
+        ]
+    },
+    ".git\\objects\\c5": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\c5\\c9884ce31e37ef14b4215b726773d3fbf1c71c"
+        ]
+    },
+    ".git\\objects\\c8": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\c8\\8ce78aa74b237f9be592aaf89e084248407200",
+            ".git\\objects\\c8\\f65be269bce94986bb09270eaeec4bb407b498"
+        ]
+    },
+    ".git\\objects\\c9": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\c9\\69930cc305585ed66a953da00846649633c4ce"
+        ]
+    },
+    ".git\\objects\\d3": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\d3\\a79df056a85b39f0603ac629c99d7ac9af7a79"
+        ]
+    },
+    ".git\\objects\\d8": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\d8\\d555d211e3b8e0cc6fd75b6dfb5a971fe15ef4"
+        ]
+    },
+    ".git\\objects\\e1": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\e1\\c2b0f270cc6334010981bc35e11891ee1e15f6"
+        ]
+    },
+    ".git\\objects\\e3": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\e3\\49d5f0debc426563759b160b2a37f1329838be"
+        ]
+    },
+    ".git\\objects\\e6": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\e6\\f7f683c3b5e9d83d339b472d0797110bd22c41"
+        ]
+    },
+    ".git\\objects\\e9": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\e9\\3e51e497b841f37b32789676682906b4139021"
+        ]
+    },
+    ".git\\objects\\ec": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\ec\\1f512c672dacef235f9ca308b71019e584aeef",
+            ".git\\objects\\ec\\a5bdf8c17ded1f89d003f010226976ac7b6139"
+        ]
+    },
+    ".git\\objects\\f0": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\f0\\b880585d8758b0db01cf8756386aa3dc30aee7"
+        ]
+    },
+    ".git\\objects\\f8": {
+        "dirs": [],
+        "files": [
+            ".git\\objects\\f8\\fbb8e058fc10ae1ec2fae7127913fd9d77a38b"
+        ]
+    },
+    ".git\\objects\\info": {
+        "dirs": [],
+        "files": []
+    },
+    ".git\\objects\\pack": {
+        "dirs": [],
+        "files": []
+    },
+    ".git\\refs": {
+        "dirs": [
+            ".git\\refs\\heads",
+            ".git\\refs\\remotes",
+            ".git\\refs\\tags"
+        ],
+        "files": []
+    },
+    ".git\\refs\\heads": {
+        "dirs": [],
+        "files": [
+            ".git\\refs\\heads\\main"
+        ]
+    },
+    ".git\\refs\\remotes": {
+        "dirs": [
+            ".git\\refs\\remotes\\origin"
+        ],
+        "files": []
+    },
+    ".git\\refs\\remotes\\origin": {
+        "dirs": [],
+        "files": [
+            ".git\\refs\\remotes\\origin\\main"
+        ]
+    },
+    ".git\\refs\\tags": {
+        "dirs": [],
+        "files": []
+    },
+    "[fun_fighter]lossing_heart": {
+        "dirs": [
+            "[fun_fighter]lossing_heart\\bemuse-data"
+        ],
+        "files": [
+            "[fun_fighter]lossing_heart\\background_000.ogg",
+            "[fun_fighter]lossing_heart\\background_001.ogg",
+            "[fun_fighter]lossing_heart\\bemuse-song.json",
+            "[fun_fighter]lossing_heart\\README.md",
+            "[fun_fighter]lossing_heart\\_back.png",
+            "[fun_fighter]lossing_heart\\_banner.png",
+            "[fun_fighter]lossing_heart\\_bg.png",
+            "[fun_fighter]lossing_heart\\_bga.wmv",
+            "[fun_fighter]lossing_heart\\_lh_9kA.pms",
+            "[fun_fighter]lossing_heart\\_lh_9kH.pms",
+            "[fun_fighter]lossing_heart\\_lh_9kN.pms",
+            "[fun_fighter]lossing_heart\\_lh_a.bme",
+            "[fun_fighter]lossing_heart\\_lh_beginner.bms",
+            "[fun_fighter]lossing_heart\\_lh_dpa.bms",
+            "[fun_fighter]lossing_heart\\_lh_dph.bms",
+            "[fun_fighter]lossing_heart\\_lh_dpi.bms",
+            "[fun_fighter]lossing_heart\\_lh_dpn.bms",
+            "[fun_fighter]lossing_heart\\_lh_empty.b",
+            "[fun_fighter]lossing_heart\\_LH_FP_Z_v1.bms",
+            "[fun_fighter]lossing_heart\\_lh_h.bme",
+            "[fun_fighter]lossing_heart\\_lh_heartache.bms",
+            "[fun_fighter]lossing_heart\\_lh_hyper+.bms",
+            "[fun_fighter]lossing_heart\\_lh_lockon.bms",
+            "[fun_fighter]lossing_heart\\_lh_normal.bms",
+            "[fun_fighter]lossing_heart\\_lh_rain.bms",
+            "[fun_fighter]lossing_heart\\_miss.jpg",
+            "[fun_fighter]lossing_heart\\_preview.ogg",
+            "[fun_fighter]lossing_heart\\_readme.txt"
+        ]
+    },
+    "[fun_fighter]lossing_heart\\bemuse-data": {
+        "dirs": [
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound"
+        ],
+        "files": [
+            "[fun_fighter]lossing_heart\\bemuse-data\\bga.mp4",
+            "[fun_fighter]lossing_heart\\bemuse-data\\preview.mp3",
+            "[fun_fighter]lossing_heart\\bemuse-data\\song.ogg"
+        ]
+    },
+    "[fun_fighter]lossing_heart\\bemuse-data\\sound": {
+        "dirs": [],
+        "files": [
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\metadata.json",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.0.104da2bc.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.1.5ff01d50.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.10.bb6a3155.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.2.6969518f.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.3.c27e40dc.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.4.d7ba9fd1.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.5.c4c4b81e.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.6.10b9004c.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.7.050c466c.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.8.0d27bfde.bemuse",
+            "[fun_fighter]lossing_heart\\bemuse-data\\sound\\oggs.9.dc800ea7.bemuse"
+        ]
+    }
+}
