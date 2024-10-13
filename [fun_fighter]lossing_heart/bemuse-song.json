@@ -1,0 +1,371 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "961c6021729d29e1cbab1e4762985485",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj AZVW_2"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1640,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_a.bme"
+    },
+    {
+      "md5": "14a150fcc855f27bef96ae6f138c3972",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj.ShooTinGStaR & aut_hina"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 482,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_beginner.bms"
+    },
+    {
+      "md5": "e0b170e0f30b7829fbdc949c1186efac",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "【はさい】"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:Ricola"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 804,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_lh_dpa.bms"
+    },
+    {
+      "md5": "05bc0995098e19b752057615064781ff",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "【ほうかい】"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:Ricola"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 428,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_lh_dph.bms"
+    },
+    {
+      "md5": "32068133b901c4372f49702244c8c108",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "【記憶】"
+        ],
+        "subartists": [
+          "mov:JackyCreeper//illust:YimonDC/obj:Ricola"
+        ],
+        "difficulty": 5,
+        "level": 4
+      },
+      "noteCount": 916,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_lh_dpi.bms"
+    },
+    {
+      "md5": "fac7e6a24122adad6cf1599f3ce46bb8",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "【傷跡】"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:Ricola"
+        ],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 226,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_lh_dpn.bms"
+    },
+    {
+      "md5": "e37f67ad7f2fc82f9cf135649bf93e71",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[返璞]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:26W2A/[MINBPM]"
+        ],
+        "difficulty": 5,
+        "level": 13
+      },
+      "noteCount": 1934,
+      "bpm": {
+        "init": 74,
+        "min": 4,
+        "median": 74,
+        "max": 64909
+      },
+      "duration": 192.95331042564192,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_LH_FP_Z_v1.bms"
+    },
+    {
+      "md5": "f2874991b73992cfb0c5c96c54a371c7",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR & AASwordman feat. 果丸 / bms: 涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj AZVW_2"
+        ],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 1100,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_h.bme"
+    },
+    {
+      "md5": "c9fb382609dc2de212e31fca7542677d",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[Heartache]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:涙訣"
+        ],
+        "difficulty": 5,
+        "level": 2
+      },
+      "noteCount": 1485,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_heartache.bms"
+    },
+    {
+      "md5": "fd253d58c4c861034dc9f421a5e43d4f",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[SP HYPER+]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:涙訣"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1181,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_hyper+.bms"
+    },
+    {
+      "md5": "a9b8773504e874a558b71d1a1777f1d4",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[ハートにロックオン]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:shan"
+        ],
+        "difficulty": 5,
+        "level": 9
+      },
+      "noteCount": 837,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": false,
+      "keys": "14K",
+      "file": "_lh_lockon.bms"
+    },
+    {
+      "md5": "5f63066efadb6a7c03cfd3e8711087c0",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:涙訣"
+        ],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 690,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_normal.bms"
+    },
+    {
+      "md5": "0a9704ae4614d328ea95a6cd44b62133",
+      "info": {
+        "title": "心の失う",
+        "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+        "genre": "Passing Elegy",
+        "subtitles": [
+          "[涙の雨]"
+        ],
+        "subartists": [
+          "mov:JackyCreeper/illust:YimonDC/obj:Constellation"
+        ],
+        "difficulty": 5,
+        "level": 4
+      },
+      "noteCount": 1662,
+      "bpm": {
+        "init": 74,
+        "min": 74,
+        "median": 74,
+        "max": 74
+      },
+      "duration": 193.07432432432432,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_lh_rain.bms"
+    }
+  ],
+  "title": "心の失う",
+  "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣",
+  "genre": "Passing Elegy",
+  "bpm": 74,
+  "replaygain": "-10.43 dB",
+  "song_url": "None",
+  "bms_url": "https://drive.google.com/file/d/1DPpDaSw6sarm9XvdEwSAopsgWVkD_Cj-/view?usp=drive_link",
+  "youtube_url": "None",
+  "long_url": "None",
+  "artist_url": "SEE FOLLOW",
+  "readme": "README.md",
+  "preview_offset": 88,
+  "preview_url": "bemuse-data/preview.mp3",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 3
+}
